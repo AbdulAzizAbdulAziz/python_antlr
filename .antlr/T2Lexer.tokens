@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+T__2=3
+Letter=4
+NZDigit=5
+Digit=6
+Int=7
+String=8
+WS=9
+'('=1
+','=2
+')'=3
